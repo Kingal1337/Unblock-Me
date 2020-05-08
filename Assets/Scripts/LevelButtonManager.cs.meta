@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66551cf61c1b2794a934bdf90c8646c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonParent: {instanceID: 0}
+  - emptyStar: {fileID: 21300000, guid: dbb32799001d31143991cfd0011685bf, type: 3}
+  - star: {fileID: 21300000, guid: b91c1d5062a171c40bd46ded92203f54, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
